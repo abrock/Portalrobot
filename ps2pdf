@@ -1,0 +1,3 @@
+#!/bin/bash
+ps2pdf Platine-top.eps Platine-top.pdf
+ps2pdf Platine-bottom.eps Platine-bottom.pdf
