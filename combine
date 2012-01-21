@@ -1,0 +1,3 @@
+#!/bin/bash
+./ps2pdf
+pdftk Platine-bottom.pdf background Platine-top.pdf output Platine.pdf
